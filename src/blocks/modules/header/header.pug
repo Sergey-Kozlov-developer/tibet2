@@ -1,0 +1,18 @@
+include ../../../views/helpers/mixins.pug
+
+header
+	.header 
+		.header__img
+			.container
+				ul.nav 
+					a(href="#!").logo
+						img(src="./img/logo/logo.png", alt="Montain", srcset="")
+						span.logo__text румтибет
+					.nav__list
+						+navLink('#','Главная')
+						+navLink('#','Про гида')
+						+navLink('#','Программа тура')
+						+navLink('#','Стоимость')
+						+navLink('#','Блог')
+						+navLink('#','Контакты')
+						button(type="button").btn Консультация

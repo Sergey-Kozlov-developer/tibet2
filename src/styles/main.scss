@@ -12,5 +12,8 @@
 @import "base/fonts";
 @import "base/general";
 
+// компонетны
+@import "../blocks/components/components";
+
 // БЭМ-блоки
 @import "../blocks/modules/modules";

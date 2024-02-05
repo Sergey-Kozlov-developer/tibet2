@@ -1,9 +1,9 @@
 include ../../../views/helpers/mixins.pug
 
 header
-	.header 
-		.header__img
-			.container
+	.header__img
+		.container
+			.header 
 				ul.nav 
 					a(href="#!").logo
 						img(src="./img/logo/logo.png", alt="Montain", srcset="")
@@ -16,3 +16,5 @@ header
 						+navLink('#','Блог')
 						+navLink('#','Контакты')
 						button(type="button").btn Консультация
+			block content 
+				include ../home/home.pug

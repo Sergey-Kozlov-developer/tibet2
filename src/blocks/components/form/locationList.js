@@ -1,0 +1,28 @@
+const locationList = [
+	"The St. Regis Lhasa Resort",
+	"InterContinental Lhasa Paradise",
+	"House Of Shambhala",
+	"Yeti hotel Gyantse",
+	"HANGSUK Trichang Labrang Hotel",
+	"Qomo Langzong Hotel",
+	"Heritage Hotel",
+	"Tashi Nota Khangsang Hotel",
+	"Four Points by Sheraton Lhasa",
+	"Kyichu Hotel (Jiqu Fandian)",
+	"Dhood Gu Hotel",
+	"The Tibet Gang-gyan Lhasa Hotel",
+	"Lhasa Manasarovar Hotel",
+	"Tsedang Hotel",
+	"Dekang Hotel",
+	"Shambhala Palace",
+	"Ramoche Grand Hotel",
+	"Kaiyuan Lhasa Hotel Vip Building",
+	"Tashitakge Hotel",
+	"Xin Ding Hotel",
+	"Manasarovar Hotel",
+	"Mandala Hotel (Jiangsu Road)",
+	"Gyantse Hotel",
+	"H.D.F Youth Hostel",
+];
+
+export default locationList;

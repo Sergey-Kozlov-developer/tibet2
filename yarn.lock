@@ -2266,6 +2266,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@tarekraafat/autocomplete.js@npm:^10.2.7":
+  version: 10.2.7
+  resolution: "@tarekraafat/autocomplete.js@npm:10.2.7"
+  checksum: 10c0/5037a054b3519b041b8b3876cda6ffbfddfb6ad9ebd229f6d858297d8d8a35709bec813cfb026b6dd58c1e1fd9015ae627f922b17a684cd9082cd7d2749ed4a7
+  languageName: node
+  linkType: hard
+
 "@tokenizer/token@npm:^0.3.0":
   version: 0.3.0
   resolution: "@tokenizer/token@npm:0.3.0"
@@ -8074,6 +8081,7 @@ bem-tools-create@bem-tools/bem-tools-create:
     "@easepick/bundle": "npm:^1.2.1"
     "@easepick/core": "npm:^1.2.1"
     "@easepick/time-plugin": "npm:^1.2.1"
+    "@tarekraafat/autocomplete.js": "npm:^10.2.7"
     babel-loader: "npm:^8.2.3"
     bem-tools-core: bem-tools/bem-tools-core
     bem-tools-create: bem-tools/bem-tools-create
